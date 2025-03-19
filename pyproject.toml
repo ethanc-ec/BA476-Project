@@ -40,6 +40,7 @@ select = [
 ]
 ignore = [
     "RUF010", # Explicit conversion flag
+    "F821", # Undefined name, false positives are showing up
 ]
 
 [tool.ruff.format]

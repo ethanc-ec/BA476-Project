@@ -12,6 +12,7 @@ dependencies = [
     "kagglehub>=0.3.11",
     "matplotlib>=3.10.1",
     "pandas>=2.2.3",
+    "ruff>=0.11.6",
     "scikit-learn>=1.6.1",
     "seaborn>=0.13.2",
     "tqdm>=4.67.1",
